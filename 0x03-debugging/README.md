@@ -1,1 +1,1 @@
-This project contains findind solutions to certain bugs in the programs 
+This project contains finding solutions to certain bugs in the programs 
