@@ -1,1 +1,1 @@
-This contains details on C programming
+This contains projects on C programming
