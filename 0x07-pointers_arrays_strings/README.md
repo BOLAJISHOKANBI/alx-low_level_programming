@@ -7,3 +7,5 @@
 #5: A function that locates a substring.
 #6: A function that prints the chessboard.
 #7: A function that prints the sum of the two diagonals of a square matrix of integers.
+#100: A function that sets the value of a pointer to a char.
+#101: A file that contains the password for the crackme2 executable.
