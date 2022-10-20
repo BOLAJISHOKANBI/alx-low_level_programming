@@ -1,5 +1,3 @@
-Project name
-
 Each file in this repository holds code that illustrates an essential concept of programming, specific to the C programming language: how to build, use, and free singly linked lists
 
 Description of what each file shows:
@@ -12,15 +10,10 @@ a function that adds a new node at the beginning of a linked list
 a function that adds a new node at the end of a list_t list
 a function that free a linked list
 
-Environment
-
 Language: C
-
 OS: Ubuntu 20.04 LTS
-
 Compiler: gcc 
 
 Style guidelines: Betty style
 
-Author:
-BOLAJISHOKANBI
+Author:BOLAJISHOKANBI
